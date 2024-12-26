@@ -1,16 +1,16 @@
 {
-  "name": "@arifszn/gitprofile",
+  "name": "@smartjoker0117/gitprofile",
   "description": "Create an automatic portfolio based on GitHub profile",
   "version": "3.1.0",
   "type": "module",
   "license": "MIT",
-  "author": "arifszn",
+  "author": "smartjoker0117",
   "repository": {
     "type": "git",
-    "url": "https://github.com/arifszn/gitprofile.git"
+    "url": "https://github.com/smartjoker0117/gitprofile.git"
   },
   "bugs": {
-    "url": "https://github.com/arifszn/gitprofile/issues"
+    "url": "https://github.com/smartjoker0117/gitprofile/issues"
   },
   "scripts": {
     "dev": "vite",
@@ -26,7 +26,7 @@
     "react-dom": "^18.3.1"
   },
   "devDependencies": {
-    "@arifszn/blog-js": "^2.0.6",
+    "@smartjoker0117/blog-js": "^2.0.6",
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
     "@typescript-eslint/eslint-plugin": "^7.8.0",
